@@ -331,11 +331,7 @@ The detailed implementation can be viewed by the [plugin](plugins/websocket). Th
 
 ## Thanks
 
-Thanks JetBrains for the free open source license
-
-<a href="https://www.jetbrains.com/?from=gev" target="_blank">
-	<img src="https://raw.githubusercontent.com/Allenxuxu/doc/master/jetbrains.png" width = "260" align=center />
-</a>
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
 ## References
 
